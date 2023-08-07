@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    .header {
+        padding-left: 375px;
+        padding-right: 375px;
+        .logo{
+            padding-top: 40px;
+            margin-right: 50px;
+        }
+        .logo_txt {
+            padding-top: 100px;
+            margin-right: 500px;
+        }
+        .links{
+            padding-top: 51px;
+        }
+    
+    }
+    .top_content {
+        .title {
+            margin-left: 373px;
+            margin-top: 164px;
+            margin-bottom: 17px;
+        }
+        .txt {
+            margin-left: 373px;
+        }
+        .button {
+            margin-left: 375px;
+            margin-top: 37px;
+            margin-right: 72px;
+            margin-bottom: 162px;
+        }
+        .link {
+            margin-top: 52px;
+            margin-bottom: 178px;
+        }
+        .top_img {
+            margin-left: 40.94px;
+            margin-bottom: 162.45px;
+            margin-right: 439.25px;
+        }
+    }
+    .top_logos {
+        padding-left: 345px;
+        padding-right: 375px;
+        padding-top: 97px;
+        padding-bottom: 96px;
+        .logo {
+            margin-right: 48px;
+        }
+    }
+}
